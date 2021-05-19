@@ -1,0 +1,12 @@
+{
+  "name": "sscimobile",
+  "displayName": "sscimobile",
+  "expo": {
+    "name": "sscimobile",
+    "slug": "sscimobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
